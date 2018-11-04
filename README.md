@@ -3,6 +3,10 @@
 PomfCrypt is a crypto-project that encrypts uploaded files and tries to be reasonably secure.
 Due to the fact that files are encrypted on the server and not client-side, security questions arise by-design. Therefore it would be smart to only upload files to a trusted server.
 
+## Disclaimer
+
+This projects name has no correlation what-so-ever with the song ["Pomf Pomf"](https://www.youtube.com/watch?v=_k80NbGJUBY).
+
 ## About
 
 I implemented this project a few years ago to learn [Go](https://golang.org). For my A levels I have the chance to submit a project in a subject of my choice (computer science, in my case) and have it graded as an additional subject for the final grade. I chose this project, because it is easy to understand and trivial to implement. Additionally, it is very easy to write a lot about cryptography and the implementation hereof.
